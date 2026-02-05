@@ -757,3 +757,4 @@ D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\refint\EVChargerAPI.dll
 D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.pdb
 D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.genruntimeconfig.cache
 D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\ref\EVChargerAPI.dll
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.sourcelink.json

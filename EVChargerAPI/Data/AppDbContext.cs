@@ -17,45 +17,48 @@ namespace EVChargerAPI.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Booking>()
-                .HasOne(b => b.User)
-                .WithMany(u => u.Bookings)
-                .HasForeignKey(b => b.UserId);
+            base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<Booking>()
-                .HasOne(b => b.Station)
-                .WithMany(s => s.Bookings)
-                .HasForeignKey(b => b.StationId);
+            modelBuilder.Entity<User>(entity =>
+            {
+                entity.Property(e => e.Email)
+                      .HasColumnType("varchar(255)")
+                      .IsRequired();
 
-            modelBuilder.Entity<Review>()
-                .HasOne(r => r.User)
-                .WithMany(u => u.Reviews)
-                .HasForeignKey(r => r.UserId);
+                entity.Property(e => e.Name)
+                      .HasColumnType("varchar(255)")
+                      .IsRequired();
 
-            modelBuilder.Entity<Review>()
-                .HasOne(r => r.Station)
-                .WithMany(s => s.Reviews)
-                .HasForeignKey(r => r.StationId);
+                entity.Property(e => e.PasswordHash)
+                      .HasColumnType("varchar(255)")
+                      .IsRequired();
 
-            modelBuilder.Entity<Car>()
-                .HasOne(c => c.User)
-                .WithMany(u => u.Cars)
-                .HasForeignKey(c => c.UserId);
-                
-            modelBuilder.Entity<Station>()
-                .HasOne(s => s.Owner)
-                .WithMany()
-                .HasForeignKey(s => s.OwnerId)
-                .IsRequired(false);
-                
-            // Configure decimal precision
-            modelBuilder.Entity<Booking>()
-                .Property(b => b.Amount)
-                .HasColumnType("decimal(18,2)");
-                
-            modelBuilder.Entity<Station>()
-                .Property(s => s.PricePerKwh)
-                .HasColumnType("decimal(18,2)");
+                entity.Property(e => e.Phone)
+                      .HasColumnType("varchar(20)");
+
+                entity.Property(e => e.VehicleNumber)
+                      .HasColumnType("varchar(50)");
+
+                entity.Property(e => e.VehicleType)
+                      .HasColumnType("varchar(50)");
+
+                entity.Property(e => e.VehicleBrand)
+                      .HasColumnType("varchar(50)");
+
+                entity.Property(e => e.VehicleModel)
+                      .HasColumnType("varchar(50)");
+
+                entity.Property(e => e.Role)
+                      .HasColumnType("varchar(50)")
+                      .IsRequired();
+
+                entity.Property(e => e.CreatedAt)
+                      .HasColumnType("datetime");
+
+                entity.Property(e => e.UpdatedAt)
+                      .HasColumnType("datetime");
+            });
         }
+
     }
 }
