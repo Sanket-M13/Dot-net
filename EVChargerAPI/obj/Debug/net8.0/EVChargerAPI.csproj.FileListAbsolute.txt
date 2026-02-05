@@ -1,0 +1,759 @@
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\appsettings.Development.json
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\appsettings.json
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.staticwebassets.endpoints.json
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.exe
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.deps.json
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.runtimeconfig.json
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.pdb
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\AutoMapper.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Azure.Core.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Azure.Identity.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Humanizer.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.ClientModel.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.CodeDom.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+d:\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.csproj.AssemblyReference.cache
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.GeneratedMSBuildEditorConfig.editorconfig
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.AssemblyInfoInputs.cache
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.AssemblyInfo.cs
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.csproj.CoreCompileInputs.cache
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.MvcApplicationPartsAssemblyInfo.cs
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.MvcApplicationPartsAssemblyInfo.cache
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.sourcelink.json
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\scopedcss\bundle\EVChargerAPI.styles.css
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.json
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\staticwebassets.development.json
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\EVCharge.0D917F43.Up2Date
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.dll
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\refint\EVChargerAPI.dll
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.pdb
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.genruntimeconfig.cache
+d:\.netProject\EVChargerAPI\obj\Debug\net8.0\ref\EVChargerAPI.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\appsettings.json
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.staticwebassets.endpoints.json
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.exe
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.deps.json
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.runtimeconfig.json
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.pdb
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\AutoMapper.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Azure.Core.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Azure.Identity.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Humanizer.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.ClientModel.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.CodeDom.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.csproj.AssemblyReference.cache
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.AssemblyInfoInputs.cache
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.AssemblyInfo.cs
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.csproj.CoreCompileInputs.cache
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.sourcelink.json
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\scopedcss\bundle\EVChargerAPI.styles.css
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\EVCharge.0D917F43.Up2Date
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\refint\EVChargerAPI.dll
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.pdb
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.genruntimeconfig.cache
+c:\Users\shira\Downloads\.netProject\EVChargerAPI\obj\Debug\net8.0\ref\EVChargerAPI.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.csproj.AssemblyReference.cache
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.AssemblyInfoInputs.cache
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.AssemblyInfo.cs
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.csproj.CoreCompileInputs.cache
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.sourcelink.json
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\refint\EVChargerAPI.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.pdb
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\appsettings.json
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.staticwebassets.endpoints.json
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.exe
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.deps.json
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.runtimeconfig.json
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.pdb
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Humanizer.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\scopedcss\bundle\EVChargerAPI.styles.css
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\EVCharge.0D917F43.Up2Date
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.genruntimeconfig.cache
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\ref\EVChargerAPI.dll
+D:\final p\CDAC-Master_Project_Using_Springboot_and_.net-main zip\CDAC-Master_Project_Using_Springboot_and_.net-main\EVChargerAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\appsettings.json
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.staticwebassets.endpoints.json
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.exe
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.deps.json
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.runtimeconfig.json
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.pdb
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Humanizer.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\final p\Fina dot plus front\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.csproj.AssemblyReference.cache
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.AssemblyInfoInputs.cache
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.AssemblyInfo.cs
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.csproj.CoreCompileInputs.cache
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\scopedcss\bundle\EVChargerAPI.styles.css
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\EVCharge.0D917F43.Up2Date
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.dll
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\refint\EVChargerAPI.dll
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.pdb
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.genruntimeconfig.cache
+D:\final p\Fina dot plus front\EVChargerAPI\obj\Debug\net8.0\ref\EVChargerAPI.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\appsettings.json
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.staticwebassets.endpoints.json
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\appsettings.Production.json
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\railway.json
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.exe
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.deps.json
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.runtimeconfig.json
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\EVChargerAPI.pdb
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Humanizer.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\MySqlConnector.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\final p\Docker\EVChargerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.csproj.AssemblyReference.cache
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.AssemblyInfoInputs.cache
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.AssemblyInfo.cs
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.csproj.CoreCompileInputs.cache
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\scopedcss\bundle\EVChargerAPI.styles.css
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVCharge.0D917F43.Up2Date
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.dll
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\refint\EVChargerAPI.dll
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.pdb
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\EVChargerAPI.genruntimeconfig.cache
+D:\final p\Docker\EVChargerAPI\obj\Debug\net8.0\ref\EVChargerAPI.dll
