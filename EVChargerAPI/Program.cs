@@ -18,11 +18,11 @@ builder.Services.AddSwaggerGen();
 // Database (MySQL ONLY)
 // --------------------
 var connectionString =
-    builder.Configuration.GetConnectionString("DefaultConnection");
+    builder.Configuration["MYSQL_CONNECTION_STRING"];
 
 if (string.IsNullOrWhiteSpace(connectionString))
 {
-    throw new Exception("Database connection string is missing.");
+    throw new Exception("MYSQL_CONNECTION_STRING is missing.");
 }
 
 builder.Services.AddDbContext<AppDbContext>(options =>
